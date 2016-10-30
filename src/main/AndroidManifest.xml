@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.cairod_church.pamphlet">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".dailyProgram"
+            android:label="@string/daily" />
+        <activity android:name=".song1"
+            android:label="@string/song1" />
+        <activity android:name=".song2"
+            android:label="@string/song2" />
+        <activity android:name=".song3"
+            android:label="@string/song3" />
+        <activity android:name=".song4"
+            android:label="@string/song4" />
+        <activity android:name=".song5"
+            android:label="@string/song5" />
+        <activity android:name=".song6"
+            android:label="@string/song6" />
+        <activity android:name=".songs"
+            android:label="@string/songs" />
+        <activity android:name=".workGroup"
+            android:label="@string/workgroup" />
+        <activity android:name=".upComing"
+            android:label="@string/upcomingevents" />
+        <activity android:name=".logo"
+            android:label="@string/logo"/>
+        <activity android:name=".bound"
+            android:label="@string/boundries" />
+        <activity android:name=".relation"
+            android:label="@string/relations" />
+        <activity android:name=".santContent"
+            android:label="@string/sanctum" />
+        <activity android:name=".sant1"
+            android:label="@string/sanctum1" />
+        <activity android:name=".sant2"
+            android:label="@string/sanctum2" />
+        <activity android:name=".program_content"
+            />
+
+    </application>
+
+</manifest>

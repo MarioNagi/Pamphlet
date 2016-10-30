@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">اطلقنى حرا </string>
+    <string name="title">شباب خريجين كنائس وسط القاهرة</string>
+    <string name="logo_main">اطلقنى حرا</string>
+    <string name="daily">البرنامج اليومى</string>
+    <string name="logo">شعار المؤتمر</string>
+    <string name="songs">الترانيم</string>
+    <string name="workgroup">المجموعات</string>
+    <string name="speakers">المتكلمون</string>
+    <string name="upcomingevents">Upcoming Events</string>
+    <string name="firstday">اليوم الاول</string>
+    <string name="secondday">اليوم الثانى</string>
+    <string name="thirdday">اليوم الثالث</string>
+    <string name="logo_bible">شعار المؤتمر</string>
+    <string name="bible1">سفر الخروج</string>
+    <string name="bible2">اصحاح</string>
+    <string name="bible2.1">21</string>
+    <string name="bible2.2">ايه</string>
+    <string name="bible2.3">5</string>
+    <string name="bible3">لاَ أَخْرُجُ حُرًّا</string>
+    <string name="song1">تمجيد الانبا بولا </string>
+    <string name="song2"> تمجيد الانبا  أنطونيوس</string>
+    <string name="song3">ادنو إليك ارتاح </string>
+    <string name="song4">سأدنو منك يا ربي </string>
+    <string name="song5">يسوع أنت تعلم</string>
+    <string name="song6">علمني انتظرك يا رب</string>
+    <string name="relations">العلاقات</string>
+    <string name="boundries">الحدود</string>
+    <string name="sanctum">الخلوة</string>
+    <string name="sanctum1">خلوه 1</string>
+    <string name="sanctum2">خلوه 2</string>
+    <string name="topics">مجموعات العمل</string>
+
+
+</resources>
